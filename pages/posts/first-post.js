@@ -1,6 +1,6 @@
 import Head from "next/head";
-import Script from "next/script";
 import Link from "next/link";
+import Script from "next/script";
 
 import Layout from "../../components/Layout";
 
